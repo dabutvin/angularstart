@@ -1,0 +1,7 @@
+*.js
+*.map
+wwwroot/libs
+node_modules
+typings
+bin
+obj
