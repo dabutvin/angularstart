@@ -1,5 +1,5 @@
-*.js
-*.map
+wwwroot/app/*.js
+wwwroot/app/*.map
 wwwroot/libs
 node_modules
 typings
