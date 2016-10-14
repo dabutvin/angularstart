@@ -6,7 +6,7 @@
   </PropertyGroup>
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>0072696f-d737-4d7a-95bd-e4e1eaf0dd3f</ProjectGuid>
+    <ProjectGuid>ba298e14-9101-480c-82d0-9f35a2ff733b</ProjectGuid>
     <RootNamespace>AngularStart</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>

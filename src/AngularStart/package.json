@@ -1,10 +1,10 @@
 {
-  "name": "angular-quickstart",
+  "name": "angularstart",
   "version": "1.0.0",
   "scripts": {
     "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
     "lite": "lite-server",
-    "postinstall": "typings install",
+    "postinstall": "typings install && gulp restore",
     "tsc": "tsc",
     "tsc:w": "tsc -w",
     "typings": "typings"
@@ -38,6 +38,6 @@
     "lite-server": "2.2.2",
     "gulp": "^3.9.1",
     "typescript": "2.0.3",
-    "typings": "1.4.0"
+    "typings":"1.4.0"
   }
 }
